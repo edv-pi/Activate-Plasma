@@ -4,10 +4,10 @@
 
     <group name="General">
         <entry name="titleText" type="String">
-            <default>Activate Plasma</default>
+            <default>Activate Ubuntu</default>
         </entry>
         <entry name="descriptionText" type="String">
-            <default>Go to Settings to activate Plasma</default>
+            <default>Go to Settings to activate Ubuntu 24.04</default>
         </entry>
         <entry name="titleTextSize" type="Double">
             <default>20</default>
